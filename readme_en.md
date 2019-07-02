@@ -1,19 +1,13 @@
-等宽字体快速安装脚本
+Quick Installation Script with Mono Font
 ===============
-
-
-
-# [Englisg Readme](https://github.com/zhenruyan/codefont/blob/master/readme_en.md)
-
-
 
 ------------
 
-运行``./install.sh`` 安装全部字体
+run ``./install.sh`` install all Mono Font
 
-windows  运行windowsinstall脚本
+windows   run  windowsinstall shell
 
-快速安装
+Quick Installation
 ------------------
 
 ```
@@ -22,7 +16,7 @@ windows  运行windowsinstall脚本
     # install
     cd fonts
     ./install.sh
-	windows  运行windowsinstall脚本
+	windows  run windowsinstall shell
     # clean-up a bit
     cd ..
     rm -rf fonts
@@ -33,15 +27,17 @@ windows  运行windowsinstall脚本
 ![demo](https://raw.githubusercontent.com/zhenruyan/codefont/master/demo.png)
 
 
-##   已收录字体
+##   Already included
 
->先后不代表排名
 
->>20190125 没有任何文件的更新 emmmm  貌似最近也没有出现什么优秀的等宽字体
+>No ranking
 
->>20170830大更新！！！！！   增加了windows安装脚本  windows可以一件安装所有字体
 
->>201708029跟新
+>>20190125 update 没有任何文件的更新 emmmm  貌似最近也没有出现什么优秀的等宽字体
+
+>>20170830 big update 大更新！！！！！   增加了windows安装脚本  windows可以一件安装所有字体
+
+>>201708029 update
 *  **Envy Code** 
 *  **Cutive_Mono**
 *  **Overpass_Mono**
@@ -49,24 +45,24 @@ windows  运行windowsinstall脚本
 *  **Share_Tech_Mono**
 *  **inziu-iosevka-ttfs**
 
->>20170828更新
+>>20170828 update
 
 *  **yaheiconsolas**
 *  **EspressoMonoRegular**
 *  **jxyahei**
 
 
->>20170827更新
+>>20170827 update
 
 *  **centschbook-mono**
 
-*  **droidsansmono**更新
+*  **droidsansmono** update
 
 
 
 
 -------------------
->>20170824更新
+>>20170824 update
 
 *   **thai-scalable**
 *   **google-droid**
